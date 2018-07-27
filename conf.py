@@ -14,8 +14,16 @@
 
 import sys
 import os
-from setting import config as doc_config
 
+doc_config = {
+    "author": u"奚驰俊",
+    "project": u"test",
+    "version": u"0.1",
+    "copyright": u"test",
+    "pdf_filename": u"test",
+    "pdf_title": u"test",
+    "html_title": u"testdoc",
+}
 doc_dir = os.path.dirname(__file__)
 
 # If extensions (or modules to document with autodoc) are in another directory,

@@ -4,3 +4,4 @@ xlrd==0.9.4
 XlsxWriter==0.7.3
 xlwt==0.7.5
 rst2pdf
+hieroglyph
