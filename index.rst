@@ -7,6 +7,7 @@
 .. toctree::
     :maxdepth: 2
 
+    src/CHANGELOG.rst
     src/sample.rst
 
 
